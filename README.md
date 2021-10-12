@@ -1,6 +1,6 @@
-# Sending notifications from Cisco DNA Center to Cisco WebEx with AWS Lambda
+# Sending Webhooks from Cisco DNA Center to WebEx room with AWS Lambda
 
-This is a repo for handling DNAC Webhook by AWS Lambda
+This is a repo for handling DNAC Webhook by AWS Lambda and sending notifications to Cisco WebEx
 
 ################
 
