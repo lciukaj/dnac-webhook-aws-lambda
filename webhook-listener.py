@@ -15,6 +15,8 @@ url = "https://api.ciscospark.com/v1/messages"
 
 roomid = os.environ['ROOMID']
 auth = os.environ['AUTH']
+
+#DON'T FORGET TO CHANGE DEFAULT LAMBDA HANDLER IN AWS GUI. IT SHOULD BE "webhook-listener.lambda_handler"
         
 def lambda_handler(dnac, event):
 
